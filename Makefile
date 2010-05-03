@@ -1,7 +1,7 @@
 MAKESOURCE := $(wildcard *.in)
 
 all: $(MAKESOURCE)
-	#mkdir -f man6
+	mkdir man6
 	for content in ${MAKESOURCE}; do \
 		filename=$${content%.in} ; \
 		m4 m4npage $${content} > man6/$${filename}.6 ; \
