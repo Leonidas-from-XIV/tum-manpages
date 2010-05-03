@@ -1,0 +1,2 @@
+define(`VERSION', esyscmd(git describe --tags | tr -d '\n'))dnl
+define(`BUILDDATE', esyscmd(date +%Y-%m-%d | tr -d '\n'))dnl
