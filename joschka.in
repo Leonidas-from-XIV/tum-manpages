@@ -1,3 +1,25 @@
 TH(joschka)
 .SH NAME
 joschka \- not doing anything at all, but at least consistently
+.SH SYNOPSIS
+.B joschka
+do you want to copy my homework?
+.br
+.B joschka
+why are you even at university
+.br
+.B joschka
+when are we playing DSA, again?
+.SH DESCRIPTION
+.B joschka
+is a computer science student from somewhere outside of Germany where there
+are apparently no standards on education. Or at least noone can imagine
+how he managed to get his a-levels.
+.PP
+His favourite activities include chatting during days and night, reading
+4players, Golem and Heise. He also spends money on games from Steam, so
+that other friends who visit him have something to do.
+.SH SEE ALSO
+lisl(6)
+.SH BUGS
+Propably the laziest person alive.
