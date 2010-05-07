@@ -1,3 +1,13 @@
 TH(mike)
 .SH NAME
 mike \- convert coffee to babble
+.SH SYNOPSIS
+.B mike
+why are you still online?
+.SH SEE ALSO
+lars(6)
+.SH BUGS
+Does not work without prior insertion of coffee. Remember to keep the caffeine
+level high at all times.
+.PP
+Frequently wanders off and starts fiddling with irrelevant stuff.
