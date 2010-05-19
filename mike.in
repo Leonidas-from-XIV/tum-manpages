@@ -4,6 +4,10 @@ mike \- convert coffee to babble
 .SH SYNOPSIS
 .B mike
 why are you still online?
+.SH DESCRIPTION
+Stand back,
+.B mike
+knows Regular Exp^W^W TikZ!
 .SH SEE ALSO
 lars(6)
 .SH BUGS
