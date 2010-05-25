@@ -1,5 +1,14 @@
 TH(lisl)
 .SH NAME
 lisl \- twentysomething years of not giving a damn
+.SH OPERATING SYSTEMS
+.ul
+Windows Vista,
+.ul
+Cygwin
 .SH BUGS
 Not actually called Lisl but Lisa. Her parents must have spelled her name wrong.
+.PP
+Windows Vista. See also
+.ul
+Operating systems

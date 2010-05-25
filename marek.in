@@ -6,3 +6,10 @@ marek \- he who navigates a conversation in a completely different direction wit
 once made an iPad from scratch, that is, from paper. Nonsense, but awesome.
 .br
 Uses a strange font for hand writing: puts totally un-functional rings above 'i' and 'j' characters.
+.SH OPERATING SYSTEMS
+.ul
+Debian GNU/Linux
+(with wacky Redmond theme),
+.ul
+Arch Linux
+(using a package manager written in Common Lisp)
