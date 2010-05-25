@@ -2,8 +2,12 @@ TH(corny)
 .SH NAME
 corny \- so wacky, they need to invent a word to describe it
 .SH OPERATING SYSTEMS
+(Formerly)
 .ul
 OpenBSD
-(formerly),
+and
+.ul
+FreeBSD
+though currently
 .ul
 Ubuntu
