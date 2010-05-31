@@ -1,6 +1,9 @@
 TH(corny)
 .SH NAME
 corny \- so wacky, they need to invent a word to describe it
+.SH SYNOPSIS
+.B corny
+I am the master of Paint!
 .SH OPERATING SYSTEMS
 (Formerly)
 .ul
@@ -11,3 +14,5 @@ FreeBSD
 though currently
 .ul
 Ubuntu
+.SH QUIRKS
+One of (probably) two people also knowing Panzi. (But, the 100 additional geek points for that are irrelevant, because he already has enough.)
