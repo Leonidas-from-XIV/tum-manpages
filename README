@@ -24,6 +24,12 @@ on man-db (Debian, Arch, Ubuntu, what-have-you) and traditional man (Gentoo
 standard).
 
 
+Why isn't there an installation option?
+---------------------------------------
+
+Because you haven't written it. Why haven't you sent me a patch yet?
+
+
 Who wrote all this shit?
 ------------------------
 
