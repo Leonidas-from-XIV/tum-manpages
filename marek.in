@@ -2,6 +2,11 @@ TH(marek)
 .SH NAME
 marek \- he who navigates a conversation in a completely different direction
 without even noticing that
+.SH DESCRIPTION
+.B marek
+is the maintainer of tum-manpages, the manpage collection that you are
+currently reading. It is some kind of jargon file, like back in the old
+MIT AI lab days.
 .SH QUIRKS
 .B marek
 once made an iPad from scratch, that is, from paper. Nonsense, but awesome.
