@@ -1,0 +1,13 @@
+TH(luke)
+.SH NAME
+luke \- complaining about stuff
+.SH PERSONAL DATA
+.B initial release
+198?-06-24
+.B home folder
+Bavaria
+.SH OPERATING SYSTEMS
+.ul
+Ubuntu
+.SH QUIRKS
+Fails when configuring Linux. Any Linux.
