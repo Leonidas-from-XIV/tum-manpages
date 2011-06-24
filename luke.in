@@ -9,5 +9,7 @@ Bavaria
 .SH OPERATING SYSTEMS
 .ul
 Ubuntu
+Debian
 .SH QUIRKS
-Fails when configuring Linux. Any Linux.
+Fails when configuring Linux. Any Linux. Prefers to see it as Linux failing on him.
+Emits frequent "lol" messages. Can be ignored safely.
