@@ -10,6 +10,10 @@ Bavaria
 .ul
 Ubuntu
 Debian
+.SH FEATURES
+.B luke
+includes fire department uniform
 .SH QUIRKS
 Fails when configuring Linux. Any Linux. Prefers to see it as Linux failing on him.
+.PP
 Emits frequent "lol" messages. Can be ignored safely.
