@@ -3,15 +3,18 @@ TH(luke)
 luke \- complaining about stuff
 .SH DESCRIPTION
 .B luke
-is a hobby gender study scientist, protector of minorities and saver of lost souls and unhappy persons.
+is a hobby gender study scientist, protector of minorities and saver of lost
+souls and unhappy persons.
 .SH PERSONAL DATA
 .B initial release
 1988-06-24
+.br
 .B home folder
 Bavaria
 .SH OPERATING SYSTEMS
 .ul
 Ubuntu
+.ul
 Debian
 .SH FEATURES
 .B luke
@@ -21,6 +24,9 @@ Even at 3 am
 .B luke
 provides a psychological care module if necessary.
 .SH QUIRKS
-Fails when configuring Linux. Any Linux. Prefers to see it as Linux failing on him.
+Fails when configuring Linux. Any Linux. Prefers to see it as Linux failing on
+him.
 .PP
 Emits frequent "lol" messages. Can be ignored safely.
+.SH SEE ALSO
+manuel(6)

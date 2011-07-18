@@ -6,11 +6,15 @@ todo
 .SH PERSONAL DATA
 .B initial release
 1990-09-27
+.br
 .B home folder
 Hamburg
 .SH OPERATING SYSTEMS
 .ul
 Turing machines
+and
+.ul
+Ubuntu Linux
 .SH QUIRKS
 .B antonia
 is proud of her lack of knowledge of cultural essentials like 'Star Wars',
@@ -27,3 +31,5 @@ exhibits opinions on computer science and programming that vary between
 'most useless and frustrating stuff ever, you'd have to be insane to keep
 yourselve busy with such a crap!!!111' and 'high art of mind, this is how
 God must have felt when he created the world'.
+.SH SEE ALSO
+joschka(6)
