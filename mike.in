@@ -18,9 +18,14 @@ is old. Really old. Older than your dad's C64. When
 mike
 was a child, dinosaurs were populating the world and ThinkPads still came from
 IBM.
+.PP
+His diet consists nearly of beer and chocolate, his fridge has no other use
+than that. Although lately he has started to drink wine, possibly to make a
+cultivated impression.
 .SH PERSONAL DATA
 .B initial release
 1985-10-23
+.br
 .B home folder
 Mengkofen (a region in Bavaria, where each city name ends with either 'ofen' or 'ing')
 .SH LISL AWARDS
@@ -47,7 +52,7 @@ lars(6)
 Does not work without prior insertion of coffee (and beer). Remember to keep
 the caffeine level high at all times.
 .PP
-Frequently wanders off and starts fiddling with irrelevant stuff. Possible cause:
-Someone called memfrob on his brain.
+Frequently wanders off and starts fiddling with irrelevant stuff. Possible
+cause: Someone called memfrob on his brain.
 .PP
 FTBFS if trying to emerge him with -slang.
