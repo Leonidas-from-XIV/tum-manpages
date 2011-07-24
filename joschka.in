@@ -12,7 +12,7 @@ why are you even at university?
 have you even been to university today?
 .br
 .B joschka
-when are we playing DSA, again?
+when are we playing Shadowrun, again?
 .SH DESCRIPTION
 .B joschka
 is a computer science student from somewhere outside of Bavaria where there
@@ -25,6 +25,7 @@ that other friends who visit him have something to do.
 .PP
 Don't let him change the font settings of your computer. He apparently likes
 ugly fontrendering that is even more unreadable as the one that Apple uses.
+Update: Is now proud owner of a Macbook Air Rev. 2011
 .SH PERSONAL DATA
 .B initial release
 1987-05-30
@@ -36,11 +37,14 @@ Windows 7
 and
 .ul
 Ubuntu
-both in dark mode because he's such a l33t hax0r.
+and
+.ul
+OS X
+all three in dark mode because he's such a l33t hax0r.
 .SH SEE ALSO
 lisl(6)
 .SH QUIRKS
 .B joschka
-is the only one without an own notebook so everyone flames him.
+HE GOT A MBA. DON'T YA LISTEN?!?!
 .SH BUGS
 Probably the laziest person alive.
