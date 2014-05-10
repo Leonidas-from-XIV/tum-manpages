@@ -10,14 +10,18 @@ How to use it?
 
 You have to use GNU Make, to build it:
 
+```
 make
+```
 
 There you go, it creates all manpages. You can copy them whereever you want,
 even install it system-wide. No, I don't have a ``make install`` target.
 
 To read the pages write
 
+```
 man -M . <manpagename>
+```
 
 ``-M .`` adds the local directory to the search path. Lo and behold, it works
 on man-db (Debian, Arch, Ubuntu, what-have-you) and traditional man (Gentoo
@@ -35,7 +39,9 @@ Who wrote all this shit?
 
 Use git to find out:
 
+```
 git shortlog -s | cut -c8-
+```
 
 
 Why are all pages in category 6?
